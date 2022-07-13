@@ -8,9 +8,9 @@ const Navbar = () => {
     const {showCart, setShowCart, totalQuantity} = useStateContext();
     return (
         <div className="navbar-container">
-            <p className="logo">
+            <p className="logo-image">
                 <Link href="/">
-                    DRIP STORE
+                    <img src="/static/logo4646.png" alt="drip store logo"/>
                 </Link>
             </p>
             <button type="button"  className="cart-icon" onClick={() => setShowCart(true)}>

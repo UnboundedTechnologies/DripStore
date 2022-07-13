@@ -69,6 +69,15 @@ span.text-red {
   font-size: 18px;
 
 }
+
+.logo-image{
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+
 .cart-icon{
   font-size: 25px;
   color: gray;
