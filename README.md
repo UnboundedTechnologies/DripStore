@@ -29,7 +29,7 @@ This is what I used for this project:
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) through this link:
+You can check the project deployed on [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) through this link:
 <p align="center">
   <b>https://drip-store.vercel.app/</b>
 </p>
